@@ -1,4 +1,4 @@
-import './App';
+import '../App';
 
 function Piano() {
     return (
